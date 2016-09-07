@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TNEData">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="TNEData.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="TNE-Data" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/images" />
+    </root>
+  </artifact>
+</component>
